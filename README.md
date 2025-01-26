@@ -17,7 +17,7 @@
 ### 📫 How to Reach Me
 - Email: **ashwinithikole@gmail.com**
 ### 🌐 Portfolio
-- [Check Out My Projects](https://portfolio-alpha-one-22.vercel.app/)
+- [Check Out My Portfolio](https://portfolio-alpha-one-22.vercel.app/)
 ---
 
 <h3 align="center">Connect with Me:</h3>
