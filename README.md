@@ -1,88 +1,73 @@
 <h1 align="center">👋 Hi, I'm Ashwini Pandurang Thikole</h1>
-<h3 align="center">MERN STACK DEVELOPER</h3>
-
----
+<h3 align="center">🚀 MERN Stack Developer | Passionate About Full Stack Development</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashu-2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-
-### 🔭 Current Work
-- **E-commerce Website**
-### 🌱 Currently Learning
-- **React Native**
-### 💬 Ask Me About
-- **React**
-### 📫 How to Reach Me
-- Email: **ashwinithikole@gmail.com**
-### 🌐 Portfolio
-- [Check Out My Portfolio](https://portfolio-alpha-one-22.vercel.app/)
----
-
-<h3 align="center">Connect with Me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/ashwini-thikole" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/__ashu_2004__" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ashuthikole2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+## 🔥 About Me  
+- 🎓 **Computer Engineering Student at SPPU**  
+- 🌱 **Currently Learning:** Nodejs
+- 💡 **Interests:** Web Development, Software Development, Problem Solving  
+- 🚀 **Building:** Full-Stack Applications & Scalable Web Solutions  
+- 💬 **Ask Me About:** React, JavaScript, MongoDB, Express.js, Node.js  
+- 📧 **Email:** [ashwinithikole@gmail.com](mailto:ashwinithikole@gmail.com)  
+- 🌍 **Portfolio:** [Click Here](https://portfolio-kohl-mu-66.vercel.app/)
+
+---
+## 🔗 Connect with Me  
 <p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
+  <a href="https://linkedin.com/in/ashwini-thikole" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+  <a href="https://github.com/ashu-2004" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <a href="https://instagram.com/__ashu_2004__" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <a href="mailto:ashwinithikole@gmail.com" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+## 🚀 Tech Stack  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu-2004&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashu-2004&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs,nodejs,express,mongodb,mysql,java,python,c,cpp,git,github,vscode,figma" alt="Tech Stack" />
 </p>
 
+---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashuthikole2004&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuthikole2004&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## ⚡ Projects  
+- 🚀 **E-Commerce Website** - Full-stack e-commerce app using MERN stack.  
+- 🌱 **Portfolio Website** - Showcasing my projects, skills, and experience.  
+- 🏥 **Hospital Management System** - A C-based hospital management system.  
+- 📊 **Crop Price Prediction (SIH 2024)** - Machine learning project using Decision Tree Regression.  
+
+📌 **More projects on my GitHub!** [🔗 Click Here](https://github.com/ashuthikole2004)
+
+---
+
+## 🎯 Fun Facts  
+- 🌟 I love **coding challenges & hackathons**.  
+- 🎶 Music and **traveling** keep me refreshed.  
+- 🏆 Participated in **Smart India Hackathon & Avishkar**.  
+- 🔥 Always eager to learn **new technologies**!  
+
+---
+
+🚀 **Let's build something amazing together!** Feel free to reach out! 😊
