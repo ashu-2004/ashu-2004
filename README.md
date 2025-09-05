@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Passionate About Full Stack Development</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashuthikole2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ashu-2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
   <a href="https://linkedin.com/in/ashwini-thikole" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ashuthikole2004" target="_blank">
+  <a href="https://github.com/ashu-2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/__ashu_2004__" target="_blank">
@@ -45,18 +45,18 @@
 
 ## GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashuthikole2004&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashuthikole2004&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashu-2004&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashu-2004&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashuthikole2004&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashu-2004&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=ashuthikole2004&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashu-2004&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -70,7 +70,6 @@
   </picture>
 </p>
 
-
 ---
 
 ## Projects  
@@ -79,7 +78,7 @@
 - **Hospital Management System** – C-based hospital management system  
 - **Crop Price Prediction (SIH 2024)** – Machine learning project using Decision Tree Regression  
 
-More projects available on [GitHub](https://github.com/ashuthikole2004)
+More projects available on [GitHub](https://github.com/ashu-2004)
 
 ---
 
