@@ -9,7 +9,7 @@
 
 ## About Me  
 - Computer Engineering Student at **SPPU**  
-- Currently learning **Node.js**  
+- Currently learning **MERN Stack**  
 - Interests: **Web Development, Software Development, Problem Solving**  
 - Focused on building **Full-Stack Applications & Scalable Web Solutions**  
 - Ask me about: **React, JavaScript, MongoDB, Express.js, Node.js**  
@@ -20,7 +20,7 @@
 
 ## Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/ashwini-thikole" target="_blank">
+  <a href="https://www.linkedin.com/in/ashwini-thikole-27a50b291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ashu-2004" target="_blank">
@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
@@ -70,12 +71,14 @@
 ---
 
 ## Projects  
-- **E-Commerce Website** – Full-stack e-commerce application using MERN stack  
-- **Portfolio Website** – Showcasing my projects, skills, and experience  
-- **Hospital Management System** – C-based hospital management system  
-- **Crop Price Prediction (SIH 2024)** – Machine learning project using Decision Tree Regression  
+- **E-Commerce Website** – Full-stack e-commerce platform using MERN stack with authentication, cart, and payment integration.  
+- **Portfolio Website** – Personal portfolio showcasing projects, technical skills, and achievements with a modern responsive design.  
+- **Valine Agro** – Multi-level e-commerce platform with 50+ hierarchical roles, automated promotions via cron jobs, and transparent profit-sharing.  
+- **SheLaunch** – Women-centric entrepreneurship platform offering resources, networking, and business growth support.  
+- **AI Driven Interview Automation System** – AI-powered platform automating interviews with real-time evaluation and intelligent feedback.  
 
-More projects available on [GitHub](https://github.com/ashu-2004)
+🔗 More projects available on [GitHub](https://github.com/ashu-2004)  
+
 
 ---
 
