@@ -9,7 +9,7 @@
 
 ## About Me  
 - Computer Engineering Student at **SPPU**  
-- Currently learning **MERN Stack**  
+- Currently learning **Generative AI**  
 - Interests: **Web Development, Software Development, Problem Solving**  
 - Focused on building **Full-Stack Applications & Scalable Web Solutions**  
 - Ask me about: **React, JavaScript, MongoDB, Express.js, Node.js**  
