@@ -62,6 +62,18 @@
 
 ---
 
+## LeetCode Stats & Badges
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/20ashu04?theme=dark&font=Karma&ext=contest" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-LeetCode-blue?style=for-the-badge" />
+</p>
+
+---
+
 ## Contribution Graph (Snake)
 <p align="center">
   <img src="https://raw.githubusercontent.com/ashu-2004/ashu-2004/output/snake.svg" alt="GitHub contribution snake" />
