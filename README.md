@@ -64,13 +64,22 @@
 
 ## LeetCode Stats & Badges
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/20ashu04?theme=dark&font=Karma&ext=contest" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-LeetCode-blue?style=for-the-badge" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/20ashu04?theme=dark&font=Karma&ext=contest" />
+    </td>
+    <td align="center">
+      <p><strong>Badges</strong></p>
+      <img 
+        src="https://raw.githubusercontent.com/ashu-2004/ashu-2004/main/assets/leetcode/lg2550.png"
+        width="130"
+        alt="50 Days Badge 2025"
+      />
+      <p>50 Days Badge 2025</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
